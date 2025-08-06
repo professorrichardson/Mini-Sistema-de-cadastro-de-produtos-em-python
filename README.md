@@ -46,7 +46,7 @@ def cadastrar_produto():
 ```
 
 📝 **O que faz?**  
-Pede 3 informações ao usuário e retorna em uma **tupla**:
+Pede 3 informações ao usuário e retorna em uma **tupla/Lista/vetor**:
 ```python
 ("Banana", 3.5, "Fruta")
 ```
@@ -132,17 +132,9 @@ Arroz;8.99;Alimento
 
 ---
 
-## 🎓 Próximos passos
-
-Se você entender esse código, você pode:
-- Criar filtros por categoria
-- Fazer edição de produtos
-- Refatorar usando orientação a objetos (veja a Parte 2 no repositório!)
-
----
 
 ## 🤘 Bora codar!
 
 Não se preocupe em errar. O mais importante é **praticar e entender** o que está fazendo.  
-Qualquer dúvida, volte nos comentários do código ou pergunte! 🚀
+Qualquer dúvida, pergunte ao professor! 🚀
 
